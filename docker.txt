@@ -133,3 +133,5 @@ Was this container created using this plugin=
 Web=
 WebUI=
 Writable=
+
+; Note: December 8, 2024 - 135 missing translations
