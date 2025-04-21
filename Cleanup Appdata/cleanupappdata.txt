@@ -1,3 +1,6 @@
+
+
+; Note: April 21, 2025 - 19 missing translations
 The author takes no responsibility if you blindly accept the folders offered to delete=
 Docker Not Running=
 Because the docker service is not currently running, this module will prompt you to delete the appdata for any/all docker applications which are installed=
